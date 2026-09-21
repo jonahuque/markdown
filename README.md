@@ -45,7 +45,7 @@ Bienvenido a la documentación principal del repositorio. En este documento se a
 ---
 ## 4. Imagen
 [IES Maria Enriquez]: https://portal.edu.gva.es/mariaenriquez/
-![IES Maria Enriquez](images/maria-enriquez-gandia-Rlo3JcVQWU7dhRKRGsYvHzH-1248x770@Las%20Provincias.jpg)
+![IES Maria Enriquez](images/maria_enriquez.jpg)
 
 ## . Bloques de Código
 
